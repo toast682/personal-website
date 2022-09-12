@@ -1,14 +1,6 @@
 ---
-imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
+imageSrc: '../../images/302109447_387465476913816_1497991321013790641_n.jpg'
 imageAlt: 'About Gatsby Theme Portfolio Minimal'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
-
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I am a current 4th year computer science student at the University of British Columbia. I have previously worked at Amazon Web Services as a Software Development Engineering Intern on the AWS IoT Greengrass team, and at Safe Software as a Software Development Intern. I have also completed a reaseach assistant position at the University of British Columbia within the Department of Statistics! I am interested in many areas of software development, such as full stack development, mobile development, and data analysis. Outside of work you can find me playing tennis, basketball, and video games!

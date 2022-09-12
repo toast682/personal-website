@@ -18,7 +18,8 @@ export function Page(props: PageProps): React.ReactElement {
         >
             <Layout
                 useSplashScreenAnimation={props.useSplashScreenAnimation || false}
-                useCookieBar={siteConfiguration.featureToggles.useCookieBar}
+                // useCookieBar={siteConfiguration.featureToggles.useCookieBar}
+                useCookieBar={false}
             >
                 {props.children}
             </Layout>

@@ -1,64 +1,50 @@
 {
     "interests": [
         {
-            "label": "Quick and Easy Setup",
+            "label": "Frontend Development",
             "image": {
-                "src": "../../images/joystick.png",
+                "src": "../../images/web-dev-icon.png",
                 "alt": ""
             }
         },
         {
-            "label": "Content via Markdown",
+            "label": "Backend Development",
             "image": {
-                "src": "../../images/notebook.png",
+                "src": "../../images/backend-development.png",
                 "alt": ""
             }
         },
         {
-            "label": "Responsive Design",
+            "label": "Fullstack Development",
             "image": {
-                "src": "../../images/nail-polish.png",
+                "src": "../../images/6674627.png",
                 "alt": ""
             }
         },
         {
-            "label": "Medium Integration",
+            "label": "Mobile Development",
             "image": {
-                "src": "../../images/medium.png",
+                "src": "../../images/mobile-development.png",
                 "alt": ""
             }
         },
         {
-            "label": "Animations",
+            "label": "Machine Learning",
             "image": {
-                "src": "../../images/gem-stone.png",
+                "src": "../../images/machine-learning.png",
                 "alt": ""
             }
         },
         {
-            "label": "PWA (Offline Support)",
+            "label": "Emerging Technologies",
             "image": {
-                "src": "../../images/mobile-phone.png",
-                "alt": ""
-            }
-        },
-        {
-            "label": "Modern Tech-Stack",
-            "image": {
-                "src": "../../images/gatsby.png",
-                "alt": ""
-            }
-        },
-        {
-            "label": "Blazing Fast",
-            "image": {
-                "src": "../../images/high-voltage.png",
+                "src": "../../images/233-2339305_iot-icon-png-transparent.png",
                 "alt": ""
             }
         }
     ],
     "button": {
-        "visible": true,
+        "visible": false,
         "label": "+ Load More",
         "initiallyShownInterests": 5
     }

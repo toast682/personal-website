@@ -14,7 +14,7 @@ enum LinkType {
 export interface Project {
     category?: string;
     title: string;
-    description: string;
+    description: string[];
     image: ImageObject & { linkTo?: string };
     tags?: string[];
     links?: {
@@ -43,7 +43,14 @@ export function Project(props: ProjectProps): React.ReactElement {
             <div className={classes.Details}>
                 <span className={classes.Category}>{props.data.category}</span>
                 <h4 className={classes.Title}>{props.data.title}</h4>
-                <p>{props.data.description}</p>
+                <div>
+                    <ul>
+                        {props.data.description.map((point) => {
+                            // eslint-disable-next-line react/jsx-key
+                            return <li>{point}</li>;
+                        })}
+                    </ul>
+                </div>
                 <div className={classes.Tags}>
                     {props.data.tags &&
                         props.data.tags.length !== 0 &&
