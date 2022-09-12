@@ -15,7 +15,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal.git"
+        "url": "https://github.com/toast682/personal-website"
     },
     "devDependencies": {
         "husky": "4",
